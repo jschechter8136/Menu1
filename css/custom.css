@@ -4,3 +4,49 @@ text-align: center;
 
 }
  
+.jumbotron { 
+
+background-color: #b8dbc7;
+}
+
+.navbar { 
+
+  background: url(../img/Capture.png) ;
+ 
+}
+
+.head { 
+font-family: Brush Script MT;
+
+}
+
+.lead, .ourstory { 
+font-family: Goudy Old Style;
+
+} 
+
+.tab_circle {
+background: #000; 
+position:relative;
+border-radius: 100% ; 
+
+opacity: 0.8;
+width: 300px;
+height: 300px;
+padding-top: 45px;
+margin-bottom: 30px;
+color: white;
+margin-left: 25px;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+color: #fff;
+background-color: #A7A1A1;
+
+}
+
+.navbar-inverse .navbar-nav>li>a {
+color: #000;
+font-family:Goudy Old Style ;
+font-size: 20px;
+}
